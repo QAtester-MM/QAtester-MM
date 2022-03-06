@@ -9,7 +9,7 @@
 - ⚡ Fun fact: a couple years ago I've released a book about financial modelling.
 - 😄 I'm fond of cross-country skiing, it drives me well!
 
-### You can reach me here 📫: [Telegram](https://www.t.me/strategyday) or here [HABR career] (https://career.habr.com/qatester)
+### You can reach me here 📫: [Telegram](https://www.t.me/strategyday) or here [HABR career](https://career.habr.com/qatester)
 
 <!--
 **QAtester-MM/QAtester-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
