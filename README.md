@@ -7,7 +7,7 @@
           Selenide 
           using PageElements model.
 - ⚡ Fun fact: a couple years ago I've released a book about financial modelling.
--   I'm fond of cross-country skiing.
+- 😄 I'm fond of cross-country skiing, it drives me well!
 
 ### You can reach me here 📫: [Telegram](https://www.t.me/strategyday)
 
