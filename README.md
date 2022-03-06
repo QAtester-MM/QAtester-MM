@@ -8,7 +8,7 @@
           using PageElements model.
 - ⚡ Fun fact: a couple years ago I've released a book about financial modelling.
 -   I'm fond of cross-country skiing.
-- 📫 You can reach me: @strategyday
+📫 ### You can reach me: [Telegram](https://www.t.me/strategyday)
 
 <!--
 **QAtester-MM/QAtester-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
