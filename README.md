@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m Mike, seniur QA engineer with 4+ years experience in QA. Currently I learning Java+JUnit+Selenide with PageElements model.
+- 🌱 I’m Mike, senior QA engineer with 4+ years experience in QA. 
+     Currently I learning Java+JUnit+Selenide with PageElements model.
 - ⚡ Fun fact: a couple years ago I've released a book about financial modelling.
 - 📫 You can reach me: @strategyday
 <!--
