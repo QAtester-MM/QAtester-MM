@@ -4,7 +4,7 @@
 - 🌱 Currently I learning 
           Java+
           JUnit+
-          Selenide+
+          Selenide 
           using PageElements model.
 - ⚡ Fun fact: a couple years ago I've released a book about financial modelling.
 -   I'm fond of cross-country skiing.
