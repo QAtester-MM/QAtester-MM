@@ -12,7 +12,7 @@ as manual QA i use
           Selenide+
           Allure
           using PageElements model.  
-<img align width="640px" src="https://github.com/QAtester-MM/QAtester-MM/blob/7052074cb1840239b637d77773086a5b3c10555a/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20github%20.png?raw=true">
+<img align width="630px" src="https://github.com/QAtester-MM/QAtester-MM/blob/7052074cb1840239b637d77773086a5b3c10555a/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20github%20.png?raw=true">
 
 - ⚡ Fun fact: a couple years ago I've released a book about financial modelling.
 - 😄 I'm fond of cross-country skiing, it drives me well!
