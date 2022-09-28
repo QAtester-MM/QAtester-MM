@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mike 
 <img src="https://github-readme-stats.vercel.app/api?username=QAtester-MM">
 
-### I'm Product MAnager with 4+ years experience in product development team
+### I'm Product Manager with 4+ years experience in product development team
 as manual QA i use
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
